@@ -1,2 +1,2 @@
 # Mac-Address-Changer
-Macc Adress Change
+python3 macchanger.py -i eth0 -m <mac address>
